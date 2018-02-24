@@ -1,4 +1,3 @@
-![linkerd][l5d-logo]
 
 [![GitHub license][license-badge]](LICENSE)
 [![Circle CI][l5d-ci-badge]][l5d-ci]
